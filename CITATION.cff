@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: 'Mplus Syntax Files for Testing the Effects of Suppression, Confounding, and Mediating Variables'
+message: 'If you use these syntax files, in part or whole, please cite as below:'
+authors:
+  - given-names: Catie C. W.
+    family-names: Lai
+    orcid: 'https://orcid.org/0000-0002-1435-9589'
+    license: 'GNU General Public License v3.0'
+    date-released: 2024-09-07
