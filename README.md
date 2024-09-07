@@ -7,4 +7,4 @@ If you use these syntax files, please cite as:
     orcid: https://orcid.org/0000-0002-1435-9589    
     license: GNU General Public License v3.0
     date released: 2024-09-07
-    doi: 10.5281/zenodo.13726876
+    doi: https://doi.org/10.5281/zenodo.13726877
